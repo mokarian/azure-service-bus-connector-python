@@ -1,0 +1,11 @@
+azure-cosmosdb-table
+azure-functions==1.0.0a4
+azure-functions-worker==1.0.0a4
+azure-mgmt-nspkg
+azure-mgmt-resource
+azure-mgmt-subscription
+azure-servicebus
+azure-storage
+azure-storage-common
+pytest
+
